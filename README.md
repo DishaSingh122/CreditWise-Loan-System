@@ -37,6 +37,3 @@ Lightweight Jupyter workflow for preprocessing, EDA, feature engineering and bas
 - Ensure `loan_approval_data.csv` is present in the same folder as the notebook.
 - Use the conda environment reflected in the notebook metadata or install listed packages.
 - For production use: convert notebook steps into a reproducible script/module and add train/validation splits with cross-validation and model persistence (joblib).
-
-## License
-Add your preferred license file (e.g., MIT) at the repo root if sharing publicly.
